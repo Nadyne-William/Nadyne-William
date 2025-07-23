@@ -7,7 +7,7 @@ A Software developer
 I am a hard worker who is always open and willing to learn new things.
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [frankekong33@gmail.com](mailto:frankekong33@gmail.com)
+* ✉️  You can contact me at [nadyne.idy@gmail.com](mailto:nadyne.idy@gmail.com)
 
 ### Skills
 
