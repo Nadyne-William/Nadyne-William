@@ -2,7 +2,7 @@
 
 ### Frontend Engineering Lead · React · TypeScript · Next.js
 
-I build frontends for products people rely on every day: event ticketing, school management and payments. I lead frontend at **Aante** (Lagos), where I set the architecture, ship features end to end, and work closely with backend engineers, designers, QA and product.
+I build frontends for products people rely on every day: event ticketing, school management and payments. I lead frontend at **Aante** (Lagos), where I set the architecture, ship features end to end, and work closely with backend engineers, designers, QA and product manager.
 
 ---
 
