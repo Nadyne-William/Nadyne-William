@@ -1,35 +1,47 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nadyne Brown
-====================================================================================================================================
+# Hi, I'm Nadyne Brown 👋
 
-A Software Engineer
---------------------
+### Frontend Engineering Lead · React · TypeScript · Next.js
 
-I am a hard worker who is always open and willing to learn new things.
+I build frontends for products people rely on every day: event ticketing, school management and payments. I lead frontend at **Aante** (Lagos), where I set the architecture, ship features end to end, and work closely with backend engineers, designers, QA and product.
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [nadyne.idy@gmail.com](mailto:nadyne.idy@gmail.com)
+---
 
-### Skills
+## 🚀 What I've built
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
+**[Ticket Danfo](https://user.ticketdanfo.com)**: ticketing and event check-in platform
+- Designed the frontend architecture, with role-based dashboards for event creators, check-in staff and attendees
+- Built a custom QR-code scanner that admits guests at the door
+- Hardened the checkout flow against payment race conditions (double submits, early closes, webhook ordering)
 
+**SchoolBuddyHub**: school management platform
+- Admin, teacher and student portals for fees and online payments, payroll, attendance, grades and reports
+- A shared component library (data tables, filter bars, form controls, stat cards) that the rest of the team builds on
 
-### Socials
+**Payments platform**
+- Built the merchant and admin dashboards
+- Led the migration to a new payment provider
 
-<p align="left"> <a href="https://www.github.com/Nadyne-William" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+## 🛠️ How I work
 
-### Badges
+- Typed, reusable components first, so features are fast to build and easy to maintain
+- Clean API layers with Redux Toolkit and RTK Query: caching, auth and session handling, role-based access
+- Pixel-accurate, responsive UI from Figma, checked on real devices
+- Mentoring frontend interns, reviewing PRDs and helping the team get unblocked
 
-<b>My GitHub Stats</b>
+## 🧰 Tech stack
 
-<a href="http://www.github.com/Nadyne-William"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadyne-William&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Get in touch
+
+**Email:** nadyne.idy@gmail.com
+
+> Most of my professional work lives in private company repositories. I'm happy to walk through it on a call.
